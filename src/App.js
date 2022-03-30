@@ -1,7 +1,5 @@
 import Home from "@view/app/Home";
 
-
-
 function App() {
   return (
     <div>
